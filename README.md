@@ -8,7 +8,7 @@ Visit my website, nmc1313.github.io for a direct link to the project!
 
 Support: W3 docs, JavaScipt tutor
 
-Future Improvements: Add more movements and stop/start button for pacman to move continuously.
+Future Improvements: Add more movements and stop/start button for pacman to move continuously. Have Pac-Man change direction at screen edge.
 
 License information:
 
